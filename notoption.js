@@ -1,4 +1,3 @@
-//可通过长时间未操作登出
 (function() {
     var count = 0;
     var outTime = 1; //分钟
